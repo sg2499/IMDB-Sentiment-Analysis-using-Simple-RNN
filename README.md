@@ -114,6 +114,14 @@ Refer to `requirements.txt`. Key dependencies:
 
 ---
 
+## 🌐 Live Demo
+
+You're welcome to explore the app by visiting the link provided below.
+
+👉 [Try Yourself](https://imdb-sentiment-analysis-using-simple-rnn-3aqdcszp2dhdjsnkpjv6u.streamlit.app/)
+
+---
+
 ## 📬 Contact
 
 For any queries or collaboration requests, feel free to connect:
